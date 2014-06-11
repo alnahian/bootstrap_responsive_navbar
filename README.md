@@ -1,4 +1,4 @@
-# Project template 1 by bootstrap
+# Project template 1 by bootstrap (responsive navbar)
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template for building fast,
